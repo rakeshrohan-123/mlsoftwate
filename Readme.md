@@ -3,7 +3,7 @@ Iris-Classifier Web App using Flask Framework
 Deployed on Heroku Cloud
 
 App Link:
-https://irisclassifierapp.herokuapp.com
+https://softwareml.herokuapp.com/
 
 Software Requirements:
 1. Python3
